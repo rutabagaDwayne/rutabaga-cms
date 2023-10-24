@@ -1,5 +1,9 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News', path: '/news'}
-
+nav_items:
+  - label: PLATFORM
+    path: platform
+  - label: SOLUTIONS
+    path: solutions
+  - label: CONNECT
+    path: connect
+  - label: ABOUT
+    path: about
